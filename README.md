@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computational Linguistics
 - 🌱 I’m currently learning Keras and Pytorch
 - 💞️ I’m looking to collaborate on NLP projects
-- 📫 How to reach me: email @apzenteno@yahoo.com
+- 📫 How to reach me: apzenteno@yahoo.com
 
 <!---
 azenten/azenten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
